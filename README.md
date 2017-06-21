@@ -8,6 +8,8 @@ With MYSIC you can do all of this.
 This was created using several technologies:
 
   Jambase API - http://developer.jambase.com/
+  <br>
   Itunes API - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
+  <br>
   Bootstrap Library - http://materializecss.com/getting-started.html
   
