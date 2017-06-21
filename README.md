@@ -5,7 +5,7 @@ Fans do not have a place where they can find concerts near their location, liste
 
 With MYSIC you can do all of this.
 
-This was created using several technologies:
+<b>This was created using several technologies:</b>
 
   Jambase API - http://developer.jambase.com/
   <br>
