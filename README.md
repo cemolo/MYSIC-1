@@ -1,5 +1,6 @@
 <b>This was group project for Rutgers Coding Bootcamp the description and technologies used for this project are listed below.</b>
 <br>
+<br>
 <b> About MYSIC </b>
 <br>
 The problem we are solving is that music fans usually attend concerts of artists / bands that they already follow. At the moment there is no easy way to branch out and discover new artists or bands. 
