@@ -11,11 +11,11 @@ Fans do not have a place where they can find concerts near their location, liste
 
 <b>This was created using several technologies, please find them listed below:</b>
 
-  Jambase API - http://developer.jambase.com/
+  <b>Jambase API</b> - http://developer.jambase.com/
   <br>
-  Itunes API - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
+  <b>Itunes API</b> - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
   <br>
-  Bootstrap Library - http://materializecss.com/getting-started.html
+  <b>Bootstrap Library</b> - http://materializecss.com/getting-started.html
   <br>
   <br>
   <b> Link to MYSIC: </b>  https://mespada829.github.io/MYSIC/
