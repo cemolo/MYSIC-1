@@ -14,4 +14,9 @@ Fans do not have a place where they can find concerts near their location, liste
   Itunes API - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
   <br>
   Bootstrap Library - http://materializecss.com/getting-started.html
+  <br>
+  <br>
+  <b> Link to MYSIC: </b> https://mespada829.github.io/Star-Wars-Hangman-Game/
+  <br> 
+  <b> Disclaimer:</b> Jambase API has a limit of queries per day, if the site if currently not working this may be the reason.
   
