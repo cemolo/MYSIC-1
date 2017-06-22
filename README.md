@@ -1,6 +1,5 @@
 # MYSIC
-<br>
-<br>
+
 <b>This was a group project for Rutgers Coding Bootcamp, the description and technologies used for this project are listed below.</b>
 <br>
 <br>
