@@ -19,5 +19,5 @@ Fans do not have a place where they can find concerts near their location, liste
   <b> Link to MYSIC: </b>  https://mespada829.github.io/MYSIC/
   <br> 
   <br>
-  <b> Disclaimer:</b> Jambase API has a limit of queries per day, if the site if currently not working this may be the reason.
+  <b> Disclaimer:</b> Jambase API has a limit of queries per day, if searchng by Zip Code is not currently working this may be the reason.
   
